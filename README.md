@@ -1,2 +1,2 @@
 # js-jq-site
-JavaScript and jQuery Practice Website
+Assignment #1 - JavaScript and jQuery Practice Website
